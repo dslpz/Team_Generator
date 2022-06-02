@@ -1,1 +1,0 @@
-let Employee = require("../lib/Employee");
